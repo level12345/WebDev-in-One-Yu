@@ -19,3 +19,58 @@ footer {
   color: midnightblue;
 }
 
+/* img {
+  height: 200px;
+  width: 300px;
+  display: inline-block;
+} */
+
+h1 {
+  font-size: 20px;
+}
+
+/* body > div > div.card > h2 {
+  display: inline-block;
+}
+
+body > div > div.card > p {
+  display: inline-block;
+} */
+
+/* .left .card {
+  float: left;
+}
+
+.right .card {
+  float: right;
+} */
+
+.nigger {
+  display: inline-block;
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  width: 400px;
+}
+
+body > div > div.right.card {
+  /* display: inline-block; */
+  float: right;
+}
+
+body > div > div.left.card {
+  /* display: inline-block; */
+  float: left;
+}
+
+body > div > img {
+  height: 46px;
+  width: 263px;
+}
+
+.tile-image {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
