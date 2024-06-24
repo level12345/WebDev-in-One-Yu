@@ -73,9 +73,3 @@ $15/mo
 Unlimited Matches
 Unlimited Messages
 Unlimited App Usage
-
-Mastiff
-$29/mo
-Pirority Listing
-Unlimited Matches & Messages
-Unlimited App Usage
